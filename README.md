@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing a responsive and user-friendly website.<br>👯 I’m looking to collaborate on exciting Back-end web development projects.<br>🤝 I’m looking for help with optimizing the website's performance and ensuring cross-browser compatibility.<br>🌱 I’m currently working on the latest trends in frontend development.<br>💬 Ask me about anything related to Backend development, JavaScript, Node.js, MySql, postgres or any questions about the web projects I've worked on.<br>⚡ Fun fact Did you know that the first-ever website was published on August 6, 1991, by British physicist Tim Berners-Lee?
+🔭 I’m looking to collaborate on exciting Back-end web development projects.<br>🤝 I’m looking for help with optimizing the website's performance and ensuring cross-browser compatibility.<br>🌱 I’m currently working on the latest trends in frontend development.<br>💬 Ask me about anything related to Backend development, JavaScript, Node.js, MySql, postgres or any questions about the web projects I've worked on.<br>⚡ Fun fact Did you know that the first-ever website was published on August 6, 1991, by British physicist Tim Berners-Lee?
 
 
 ## 🌐 Socials:
